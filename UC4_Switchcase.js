@@ -1,3 +1,4 @@
+// switch case
 function fullTime(){
             hrs = 8;;
             return hrs;
