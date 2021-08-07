@@ -1,3 +1,4 @@
+// attandace
 const is_Absent = 0;
 
 let is_present = Math.floor((Math.random() *10 ) % 2);
@@ -6,4 +7,4 @@ if(is_present == is_Absent){
 }
 else{
     console.log("UC2 - Employee Present" );
-}
+}g
