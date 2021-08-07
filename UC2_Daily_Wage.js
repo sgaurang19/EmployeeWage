@@ -1,3 +1,4 @@
+// Daily Wages
 const is_Absent = 0;
 let wage =0;
 let is_present = Math.floor((Math.random() *10 ) % 2);
